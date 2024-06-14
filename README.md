@@ -8,6 +8,9 @@ Very soon I hope to work very hard in a company applying my solid knowledge in s
 
 My principal area of interest in basic maths is Algebraic Geometry. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
 
+You can write to me at this address:
+
+
 
 <!--
 **ElAleph25/ElAleph25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
