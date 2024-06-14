@@ -1,8 +1,11 @@
 ## Hi, I'm Daniel 👋
 
-I am mathematician. My principal area of interest in basic maths is Algebraic Geometry. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
+I am a data scientist. I got my undergraduate degree in mathematics from UNAM.  
 
-In applied maths, I interested in Data Sciencie. I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I'm also expanding my programming skills in Python, SQL and R.
+In applied maths, I interested in Machine Learning and Deep Learning. I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I'm also expanding my programming skills in Python, SQL and R.
+
+My principal area of interest in basic maths is Algebraic Geometry. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
+
 
 <!--
 **ElAleph25/ElAleph25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
