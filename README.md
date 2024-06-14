@@ -1,6 +1,8 @@
 ## Hi, I'm Daniel 👋
 
-I am mathematician. My principal area of interest in basic Maths is Algebraic Geometry. 
+I am mathematician. My principal area of interest in basic maths is Algebraic Geometry. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
+
+In applied maths, I interested in Data Sciencie. I currently learning 
 
 <!--
 **ElAleph25/ElAleph25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
