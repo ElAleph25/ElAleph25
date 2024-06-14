@@ -2,7 +2,7 @@
 
 I am a data scientist. I got my undergraduate degree in mathematics from UNAM.  
 
-In applied maths, I am interested in learning and applying Machine Learning and Deep Learning. I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I am also expanding my programming skills in Python, SQL and R.
+In applied maths, I am interested in constantly learning Machine Learning and applying it to real-world problems. I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I have a solid knowledge in linear algebra and calculus. I am also expanding my programming skills in Python, SQL and R. 
 
 Very soon I hope to work very hard in a company applying my solid knowledge in statistics and programming.
 
