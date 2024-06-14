@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel 👋
 
-I'm currently
+I am mathematician. My principal area of interest in basic Maths is Algebraic Geometry. 
 
 <!--
 **ElAleph25/ElAleph25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
