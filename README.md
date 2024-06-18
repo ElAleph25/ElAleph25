@@ -1,8 +1,8 @@
 ## Hi, I'm Daniel 👋
 
-I am a data scientist. I got my undergraduate degree in mathematics from UNAM.  
+I am a mathematician interest in using Machine Learning algorithms for Data Science. 
 
-In applied maths, I am interested in constantly learning Machine Learning and applying it to real-world problems. I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I have a solid knowledge in linear algebra and calculus. I am also expanding my programming skills in Python, SQL and R. 
+I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I have a solid knowledge in linear algebra and calculus. I am also expanding my programming skills in Python, SQL and R. 
 
 Very soon I hope to work very hard in a company applying my solid knowledge in statistics and programming.
 
