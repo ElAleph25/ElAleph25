@@ -10,6 +10,11 @@ I currently learning probability and statistics at [Colegio Bourbaki](https://ww
 
 My principal area of interest in basic maths is Algebraic Geometry and Commutative Algebra. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
 
+## Projects
+- I will upload examples of application of Machine Learning algorithms for Data Science using real data sets.
+- I will solve interesting exercises on algebraic geometry and commutative algebra. To begin, I leave you my bachelor's thesis in algebraic geometry written in Spanish.
+
+
 📧 You can write to me at this address: holadanielrc@gmail.com
 
 
