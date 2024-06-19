@@ -4,8 +4,6 @@ I am a mathematician interest in using Machine Learning algorithms for Data Scie
 
 I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I have a solid knowledge in linear algebra and calculus. I am also expanding my programming skills in Python, SQL and R. 
 
-Very soon I hope to work very hard in a company applying my solid knowledge in statistics and programming.
-
 My principal area of interest in basic maths is Algebraic Geometry. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
 
 You can write to me at this address:
