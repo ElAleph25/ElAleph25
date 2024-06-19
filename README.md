@@ -6,7 +6,7 @@ I currently learning probability and statistics at [Colegio Bourbaki](https://ww
 
 My principal area of interest in basic maths is Algebraic Geometry. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
 
-You can write to me at this address:
+📧 You can write to me at this address: holadanielrc@gmail.com
 
 
 
