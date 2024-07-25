@@ -1,11 +1,16 @@
 
 # Hi, I'm Daniel 
 
-## Basic maths 
+## About me 
 
-I am a mathematician. My principal area of interest in basic maths is Algebraic Geometry and Commutative Algebra. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
+I am a Mathematician. I currently live in Mexico City. I love film photography and cinema. The next photo is from the movie "Fallen Angels", directed by Wong Kar Wai. 
+
 
 ![Fallen Angels Movie](https://github.com/ElAleph25/ElAleph25/blob/main/fallenangels.jpg)
+
+## Basic maths 
+
+My principal area of interest in basic maths is Algebraic Geometry and Commutative Algebra. Particularly, I am interested in the explicit birational classification of algebraic surfaces using graded rings methods and Mori's program.
 
 ## Applied maths 
 
