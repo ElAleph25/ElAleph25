@@ -3,8 +3,7 @@
 
 ## About me 
 
-I am a Mathematician. I currently live in Mexico City. I love film photography and cinema. The next photo is from the movie "Fallen Angels", directed by Wong Kar Wai. 
-
+I am a mathematician. I live in Mexico City. I love film photography and cinema. The next photo is from the movie "Fallen Angels", directed by Wong Kar Wai. 
 
 ![Fallen Angels Movie](https://github.com/ElAleph25/ElAleph25/blob/main/fallenangels.jpg)
 
