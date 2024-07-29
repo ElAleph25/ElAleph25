@@ -19,7 +19,7 @@ I currently learning probability and statistics at [Colegio Bourbaki](https://ww
 
 
 ## Projects
-- I will upload examples of application of Machine Learning algorithms for Data Science using interesting data sets.
+- I will upload my first [Portfolio](https://github.com/ElAleph25/Portafolio)(in spanish) with applications of Machine Learning algorithms for Data Science using interesting data sets.
 - I will solve interesting exercises on algebraic geometry and commutative algebra. To begin, I leave you my bachelor's thesis in algebraic geometry written in Spanish.
 
 
