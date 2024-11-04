@@ -15,7 +15,7 @@ My principal area of interest in basic maths is Algebraic Geometry and Commutati
 
 I interest in using Machine Learning algorithms for Data Science. 
 
-I currently learning probability and statistics at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I am also expanding my programming skills in Python, SQL and R. 
+I currently learning probability, statistics and machine learning at [Colegio Bourbaki](https://www.colegio-bourbaki.com/). I am also expanding my programming skills in Python and SQL. 
 
 
 ## Projects
